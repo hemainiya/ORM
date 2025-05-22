@@ -46,7 +46,7 @@ class Movie(models.Model):
 
 
 ## OUTPUT
-[text](README.md)
+![alt text](<Screenshot 2025-05-22 122747.png>)
 
 
 ## RESULT
